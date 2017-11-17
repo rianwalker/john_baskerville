@@ -7,9 +7,9 @@
 
 <nav>
        
-                 <a href=“#the-man”>The Man</a><br/>
-                 <a href=“#the-typeface”>The Typeface</a></br>
-                 <a href=“#mrs-eaves”>Mrs Eaves</a></br>
+<a href=“#the-man”>The Man</a><br/>
+<a href=“#the-typeface”>The Typeface</a></br>
+<a href=“#mrs-eaves”>Mrs Eaves</a></br>
        
 </nav>
 
