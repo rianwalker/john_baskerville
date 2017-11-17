@@ -41,13 +41,7 @@
 
 <p> Bodoni designed many typefaces, each one in a large range of sizes. He is even more admired as a compositor, as the large range of sizes which he cut enabled him to compose his pages with the greatest possible subtlety of spacing. Like Baskerville, he set off his texts with wide margins and used little or no decoration.</p>
 
-</body>
 
-<footer> 
-
-<p>The content on this page is developed from original copy from Wikipedia and licensed under a Creative     Commons Attribution-ShareAlike License, meaning you're allowed to copy, distribute and transmit the work as long as it is attributed to the original authors.</p>
-
-</footer> 
 
 <h1>List of typefaces</h1>
 
@@ -75,8 +69,8 @@
          </ul>
     </li>
 </ul>
-
-
+ 
+ 
 
 
 
@@ -173,6 +167,13 @@
 </ul>
 
 
+</body>
 
+
+<footer> 
+
+<p>The content on this page is developed from original copy from Wikipedia and licensed under a Creative     Commons Attribution-ShareAlike License, meaning you're allowed to copy, distribute and transmit the work as long as it is attributed to the original authors.</p>
+
+</footer> 
 
 
