@@ -163,7 +163,8 @@
                 </ol>
             </li> 
             <li>Foundry
-                <ol>              
+                <ol> 
+                    <li>Adobe<\li>
                     <li>Linotype</li>
                     <li>Wiescher-Design</li>
                 </ol>
