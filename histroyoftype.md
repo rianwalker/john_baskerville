@@ -49,4 +49,130 @@
 
 </footer> 
 
+<h1>List of typefaces</h1>
+
+<p>The following list presents the typefaces our designers are best known for and some of the foundries who still produce them.</p>
+
+
+<ul>
+    <li>Nicolas Jenson
+        <ul>
+            <li>Typeface
+                <ol>
+                     <li>Adobe Jenson</li>
+                     <li>Jenson Classico</li>
+                     <li>LTC Jenson</li>
+                </ol>
+            </li> 
+            <li>Foundry
+                <ol>
+                    <li>Adobe</li>
+                    <li>Omnibus Typografi</li>
+                    <li>Lanston Type</li>
+                </ol>
+         </ul>
+
+    </li>
+</ul>
+
+
+
+
+
+<ul>
+    <li>Claude Garamont
+        <ul>
+            <li>Typeface
+                <ol>
+                     <li>Berthold Garamond</li>
+                     <li>Simoncini Garamond</li>
+                     <li>Adobe Garamond</li>
+                </ol>
+            </li> 
+            <li>Foundry
+                <ol>
+                    <li>Berthold</li>
+                    <li>Linotype</li>
+                    <li>Adobe</li>
+                </ol>
+         </ul>
+
+    </li>
+</ul>
+
+
+
+
+
+<ul>
+    <li>William Caslon
+        <ul>
+            <li>Typeface
+                <ol>
+                     <li>Caslon 540</li>
+                     <li>ITC Founders Caslon</li>
+                     <li>Adobe Caslon</li>
+                </ol>
+            </li> 
+            <li>Foundry
+                <ol>
+                    <li>Bitstream</li>
+                    <li>ITC Library</li>
+                    <li>Adobe</li>
+                </ol>
+         </ul>
+
+    </li>
+</ul>
+
+
+
+
+
+<ul>
+    <li>John Baskerville
+        <ul>
+            <li>Typeface
+                <ol>
+                     <li>Baskerville</li>
+                     <li>Baskerville Old Face</li>
+                     <li>Baskerville No.2</li>
+                </ol>
+            </li> 
+            <li>Foundry
+                <ol>
+                    <li>Monotype</li>
+                    <li>Scangraphic</li>
+                    <li>Bitstream</li>
+                </ol>
+         </ul>
+
+    </li>
+</ul>
+
+
+
+
+
+<ul>
+    <li>Giambattista Bodoni
+        <ul>
+            <li>Typeface
+                <ol>
+                     <li>Bodoni</li>
+                     <li>Bauer Bodoni</li>
+                     <li>Bodoni Classic</li>
+                </ol>
+            </li> 
+            <li>Foundry
+                <ol>
+                    <li>Adobe/<li>
+                    <li>Linotype</li>
+                    <li>Wiescher Design</li>
+                </ol>
+         </ul>
+
+    </li>
+</ul>
+
 </html>
