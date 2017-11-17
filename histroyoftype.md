@@ -51,6 +51,8 @@
 
 <h1>List of typefaces</h1>
 
+
+
 <p>The following list presents the typefaces our designers are best known for and some of the foundries who still produce them.</p>
 
 
@@ -71,7 +73,6 @@
                     <li>Lanston Type</li>
                 </ol>
          </ul>
-
     </li>
 </ul>
 
@@ -96,7 +97,6 @@
                     <li>Adobe</li>
                 </ol>
          </ul>
-
     </li>
 </ul>
 
@@ -121,7 +121,6 @@
                     <li>Adobe</li>
                 </ol>
          </ul>
-
     </li>
 </ul>
 
@@ -146,7 +145,6 @@
                     <li>Bitstream</li>
                 </ol>
          </ul>
-
     </li>
 </ul>
 
@@ -171,8 +169,10 @@
                     <li>Wiescher Design</li>
                 </ol>
          </ul>
-
     </li>
 </ul>
 
-</html>
+
+
+
+
